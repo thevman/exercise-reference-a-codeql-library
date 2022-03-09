@@ -3,7 +3,4 @@ packs:
   javascript:
     - scope/js-pack1
     - scope/js-pack2
-  # Use these packs for Java analysis
-  java:
-    - scope/java-pack1
-    - scope/java-pack2@v1.0.0
+  
