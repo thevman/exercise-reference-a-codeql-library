@@ -1,6 +1,6 @@
 packs:
   # Use these packs for JavaScript analysis
   javascript:
-    - scope/js-pack1
-    - scope/js-pack2
+    - thevman/js-pack1
+    - thevman/js-pack2
   
